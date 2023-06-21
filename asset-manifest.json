@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-06-phonebook/static/css/main.5f77879a.css",
+    "main.js": "/goit-react-hw-06-phonebook/static/js/main.0cbb6adf.js",
+    "static/media/Background Claro.jpg": "/goit-react-hw-06-phonebook/static/media/Background Claro.f5f05a55c84ac6b3d587.jpg",
+    "index.html": "/goit-react-hw-06-phonebook/index.html",
+    "main.5f77879a.css.map": "/goit-react-hw-06-phonebook/static/css/main.5f77879a.css.map",
+    "main.0cbb6adf.js.map": "/goit-react-hw-06-phonebook/static/js/main.0cbb6adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f77879a.css",
+    "static/js/main.0cbb6adf.js"
+  ]
+}
